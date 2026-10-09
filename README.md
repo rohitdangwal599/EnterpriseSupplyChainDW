@@ -14,23 +14,23 @@ An end-to-end senior-level supply chain analytics solution bridging robust **SQL
 ## 📊 Executive Power BI Command Center
 
 ### Page 1: Inventory & Valuation Control
-* **Focus**: Asset visibility, working capital distribution, and top-tier inventory ranking[cite: 11].
-* **Features**: ABC Pareto classification donuts, category capital concentration tracking, and high-value SKU analysis[cite: 11].
+* **Focus**: Asset visibility, working capital distribution, and top-tier inventory ranking.
+* **Features**: ABC Pareto classification donuts, category capital concentration tracking, and high-value SKU analysis.
 ![Page 1 Inventory and Valuation](Page%201%20Inventory%20and%20Valuation.png)
 
 ### Page 2: Loss Prevention & Shrinkage Audit
-* **Focus**: Isolating financial bleed, structural shortages, and high-risk variance exceptions[cite: 12].
-* **Features**: Shrinkage breakdown across outlets, month-over-month stock variance trajectories, and negative variance item ranking[cite: 12].
+* **Focus**: Isolating financial bleed, structural shortages, and high-risk variance exceptions.
+* **Features**: Shrinkage breakdown across outlets, month-over-month stock variance trajectories, and negative variance item ranking.
 ![Page 2 Loss Prevention](Page%202%20Loss%20Prevention.png)
 
 ### Page 3: Outlet Benchmarking & Performance Trends
-* **Focus**: Multi-location comparison, counting compliance, and historical month-over-month trajectory[cite: 13].
-* **Features**: Cross-outlet valuation matrix and historical operational trend analysis[cite: 13].
+* **Focus**: Multi-location comparison, counting compliance, and historical month-over-month trajectory.
+* **Features**: Cross-outlet valuation matrix and historical operational trend analysis.
 ![Page 3 Outlet Benchmarking](Page%203%20Outlet%20Benchmarking.png)
 
 ### Page 4: Operational Consumption & Variance Analysis
-* **Focus**: Actual vs. theoretical recipe consumption, waste tracking, and spillage detection[cite: 14].
-* **Features**: Outlet consumption performance summaries, waste valuation trends, and item-level recipe leakage lists[cite: 14].
+* **Focus**: Actual vs. theoretical recipe consumption, waste tracking, and spillage detection.
+* **Features**: Outlet consumption performance summaries, waste valuation trends, and item-level recipe leakage lists.
 ![Page 4 Consumption and Waste](Page%204%20Consumption%20and%20Waste.png)
 
 ---
