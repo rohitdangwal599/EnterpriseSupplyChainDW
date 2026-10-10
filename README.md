@@ -41,3 +41,5 @@ An end-to-end senior-level supply chain analytics solution bridging robust **SQL
 - `03_validation/`: Data quality and integrity check scripts.
 - `04_gold_views/`: Production-ready Gold SQL analytical views.
 - `EnterpriseSupplyChainDW.pbix`: The final, optimized Power BI enterprise reporting model.
+
+Note: Due to enterprise size constraints (12+ months across 120+ ERP nodes), raw data files are excluded from this public repository. The repository demonstrates the end-to-end architecture, transformation code, validation logic, and executive reporting layer.
